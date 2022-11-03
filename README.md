@@ -2,7 +2,7 @@
 DevOps Fundamentals, Projects and Interview Preparation 
 
 ### Fundamentals ###
-* Unix/Linux Commands
+* Unix/Linux Commands ([Click here](https://github.com/brajeshkokkonda/Unix-Shell-Scripting))
 * Bash/Shell Scripting
 * Python Scripting
 * Operating System Basics
