@@ -5,10 +5,12 @@ DevOps Fundamentals, Projects and Interview Preparation
 * Unix/Linux Commands ([Click here](https://github.com/brajeshkokkonda/Unix-Shell-Scripting))
 * Bash/Shell Scripting
 * Python Scripting
+* DB/SQL Basics
 * Operating System Basics
 * Network Basics
-* Cloud Basics
-* Application Life Cycle [Requirements to Delivery & Maintanence/Support]
+* Cloud Basics (IaaS,PaaS,SaaS)
+* Application Life Cycle [Requirements To Delivery & Maintanence/Support]
+* Methodologies [Agile/Scrum/XP/Kanban]
 
 ### Phases & Tools ###
 * Continuous Development [Jira, VS Code, STS, PyCharm, Git, SVN]
